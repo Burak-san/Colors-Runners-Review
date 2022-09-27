@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40360c82e41bcd744986bef3b014f78e, type: 3}
+  m_Name: CD_Stack
+  m_EditorClassIdentifier: 
+  StackData:
+    StackMemberAmount: 25
+    InitializedStack: {fileID: 249829562155634829, guid: 4611e7d9b49b46749a2c9b1d48356ae9, type: 3}
+    LerpSpeed: {x: 10, y: 6, z: 6}
+    ScaleFactor: 1.5
+    StackDistanceZ: 0.1
+    ScaleUpDelay: 0.2
