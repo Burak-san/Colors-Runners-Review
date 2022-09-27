@@ -7,7 +7,7 @@ Colors-Runners-Review
 
 ## Indroduce
 *Hi:punch:,I'm from Turkey,and I do game development.*
-*It is the post-revision version of the project I developed with my own team. It is a project that was created because I wanted to write all the codes alone from the beginning. Have a nice day*
+*It is the post-revision version of the project I developed with my own team. It is a project that was created because I wanted to write all the codes alone from the beginning. The mechanics, add-ons and design models used in this project are listed below. Have a nice day.*
 
 ***Burak Orhan*** :fast_forward: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='#6e5494'>](https://github.com/Burak-san)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burak-orhan-aohg2022//) :rewind:
 ## GamePlay Screenshots
@@ -32,7 +32,7 @@ Colors-Runners-Review
 - GUI Packages
 - Easy Save 3
 - Odin Inspector
-- New Input System
+- Joystick Pack
 - Cinemachine (State Driven Camera)
 
 ## Used Patterns
